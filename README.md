@@ -39,7 +39,7 @@ To get a local copy up and running follow these simple example steps.
 The following prerequistes are required:
 1. [Jupyter notebook](https://jupyter.org/)
 2. [Python](https://www.python.org/)
-3. Python packages: </br><img src="images/packages.png" alt="PythonPackages">
+3. Python packages: </br><img src="images/sc4.png" alt="PythonPackages">
 
 
 <!-- USAGE EXAMPLES -->
