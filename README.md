@@ -47,37 +47,34 @@ The following prerequistes are required:
 
 In this section we will outline key commands used for the analysis. Note that more comments are available in the notebook itself
 
+
+
+
+
+
+
+
+
+
 ### Patent Analysis Notebook
-1. Crawl Primary Page </br>
-   The following command will output the top 12 entities by patent count over the given dataframe
-   ```sh
-   output_leaders(wd)
-   ```
-   <img src="images/display1.png" alt="Leaders">
-2. Mine Page </br>
-   This code will display patent counts for the entire dataset, period 1996-2020 and post 2020. In addition it will output the first and last patents within the dataframe
-   ```sh
-   display_entity(wdfull, "Diebold", [], [])
-   ```
-   <img src="images/display2.png" alt="Display1">
-3. Display Entity with Keywords </br>
-   This code will display patent count metrics for each of the provided key term search words
-   ```sh
-   display_entity(wdfull, "Diebold", ["privacy","trust"], [])
-   ```
-   <img src="images/display3.png" alt="Display2">
-4. Display Entity with Additional Ranges </br>
-This code will allow you to specify a subrange e.g. in this case years that Kim Cameron was on staff
-   ```sh
-   display_entity(wdfull, "Microsoft", ["transaction", "game", "privacy", "trust"], [("Kim Cameron", 1999, 2011, [])])
-   ```
-    <img src="images/display3.png" alt="Display3">
-5. Output Patents for Entity </br>
-   This code will output a list of patents with patent hyperlinks by entity name
-   ```sh
-   print_all_patents(wdfull, "Microsoft")
-   ```
-   <img src="images/display_patent.png" alt="Display_Patent">
+1. Crawling the Base Website </br>
+   Use the provided script to crawl a base website, locate associated URLs, and compile them into a structured URL list for further processing.
+   <img src="images/display1.png" alt="Crawling">
+2. Mining URLs for Text Data </br>
+   Process each URL in the list to retrieve raw text content from the corresponding web pages, handling dynamic elements where applicable.
+   <img src="images/display2.png" alt="Mining">
+3. Extracting Text from Pages </br>
+   Extract and clean text from the retrieved data, removing unwanted elements like scripts, styles, and other non-content data to prepare for analysis.
+   <img src="images/display3.png" alt="Extracting">
+4. Lemmatization </br>
+   Normalize the extracted text by reducing words to their base or root form (e.g., converting "running" to "run") for improved consistency in analysis.
+   <img src="images/sc1.png" alt="Lemma">
+5. Calculating Term Frequencies </br>
+   Analyze the normalized text to calculate term frequencies, identifying the most frequently occurring words or phrases on the pages.
+   <img src="images/sc2.png" alt="Frequency">
+6. Clustering </br>
+   Group similar pages or text data into clusters based on shared features or term frequencies to uncover patterns and relationships in the dataset.
+   <img src="images/sc3.png" alt="Clustering">
 ### Patent Modeling Notebook
 1. Model Keywords </br>
 This code will output base statistics for a search term including percentage movement, mean, std, error and will also output a chart with trend over time
