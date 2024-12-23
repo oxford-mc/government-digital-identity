@@ -1,0 +1,18 @@
+\begin{table*}[width=\textwidth, cols=2]\caption{-- K-Means Cluster ---}\label{tab: main}\begin{tabular*}{\tblwidth}{@{} p{4cm}p{12cm}@{} }\toprule \textbf{ Cluster} & \textbf{ Words}\\\midrule \toprule
+\textbf{Identity Management} & way, service, solution, user, product, information, role, deployment, people, authenticator \\
+
+\textbf{Identity Verification} & identity, identification, mobile, card, foreigner, transaction, service, proof, development, code \\
+
+\textbf{Identity Legislation} & parliament, session, time, identity, initiative, legislation, proposal, information, introduction, amendment \\
+
+\textbf{Identity Security} & information, request, security, licence, data, service, population, identification, identity, certificate \\
+
+\textbf{Identity Services} & agency, population, data, service, identity, wallet, solution, specification, finance, ministry \\
+
+\textbf{Identity Workstructure} & preparation, wallet, identity, work, coordination, influence, workspace, development, specification, responsibility \\
+
+\textbf{Identity Entities} & project, case, wallet, country, organisation, consortium, company, sector, funding, identity \\
+
+\textbf{Identity Innovation} & solution, service, fi, suomi, identity, testing, future, architecture, user, opportunity \\
+
+\hiderowcolors\bottomrule\end{tabular*}\begin{tablenotes}\small\item Highlighted cells indicate the assessed security level for vaccine passports.\end{tablenotes}\end{table*}

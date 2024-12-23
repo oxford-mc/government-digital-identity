@@ -1,0 +1,18 @@
+\begin{table*}[width=\textwidth, cols=2]\caption{-- K-Means Cluster ---}\label{tab: main}\begin{tabular*}{\tblwidth}{@{} p{4cm}p{12cm}@{} }\toprule \textbf{ Cluster} & \textbf{ Words}\\\midrule \toprule
+\textbf{Authentication} & mobile, card, service, driver, license, certificate, component, device, apps, information \\
+
+\textbf{Services} & service, information, government, user, citizen, welfare, website, institution, access, benefit \\
+
+\textbf{Government Services} & service, certificate, document, government, time, sector, ministry, institution, online, standard \\
+
+\textbf{Government Operations} & safety, ministry, copyright, tel, society, year, cooperation, republic, government, information \\
+
+\textbf{Online Governance} & government, service, future, official, policy, experience, online, expansion, history, content \\
+
+\textbf{Strategic Development} & practice, government, innovation, platform, progress, initiative, field, plan, topic, development \\
+
+\textbf{Cooperative Governance} & center, cooperation, community, government, service, ministry, data, minister, plan, year \\
+
+\textbf{Data Management} & data, analysis, service, model, function, sector, issue, layer, level, institution \\
+
+\hiderowcolors\bottomrule\end{tabular*}\begin{tablenotes}\small\item Highlighted cells indicate the assessed security level for vaccine passports.\end{tablenotes}\end{table*}

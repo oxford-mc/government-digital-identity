@@ -1,0 +1,20 @@
+\begin{table*}[width=\textwidth, cols=2]\caption{-- LDA Cluster ---}\label{tab: main}\begin{tabular*}{\tblwidth}{@{} p{4cm}p{12cm}@{} }\toprule \textbf{ Cluster} & \textbf{ Words}\\\midrule \toprule
+\textbf{"Digital Identity Management"} & data, entity, privacy, app, government, dissemination, protection, law, identity, emirate \\
+
+\textbf{"FinTech Innovation"} & service, innovation, framework, fintech, environment, testing, solution, insurance, programme, transformation \\
+
+\textbf{"Public Health Services"} & service, government, health, project, data, development, disease, business, sandbox, process \\
+
+\textbf{"Innovation Regulation"} & regulator, innovation, future, licence, sector, authority, app, dimension, procedure, barrier \\
+
+\textbf{"Government API Transactions"} & government, service, transaction, document, api, law, future, charter, guideline, apis \\
+
+\textbf{"Customer Identification"} & customer, sector, innovation, solution, insurance, identification, service, development, bank, challenge \\
+
+\textbf{"Regulatory Compliance"} & law, provider, service, test, technology, regulation, legislation, organization, alternative, order \\
+
+\textbf{"Government Sector Innovation"} & government, maturity, model, access, goal, leadership, level, sector, information, innovation \\
+
+\textbf{"Technology Regulation"} & technology, model, app, regulation, cargo, cabinet, requirement, business, aircraft, platform \\
+
+\hiderowcolors\bottomrule\end{tabular*}\begin{tablenotes}\small\item Highlighted cells indicate the assessed security level for vaccine passports.\end{tablenotes}\end{table*}

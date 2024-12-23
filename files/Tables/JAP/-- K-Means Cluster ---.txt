@@ -1,0 +1,18 @@
+\begin{table*}[width=\textwidth, cols=2]\caption{-- K-Means Cluster ---}\label{tab: main}\begin{tabular*}{\tblwidth}{@{} p{4cm}p{12cm}@{} }\toprule \textbf{ Cluster} & \textbf{ Words}\\\midrule \toprule
+\textbf{Administration} & office, municipality, contact, issuance, procedure, card, certificate, residence, service, number \\
+
+\textbf{Identification} & information, certificate, photo, address, email, date, card, service, website, status \\
+
+\textbf{Interaction} & community, request, content, discussion, web, experience, inquiry, address, githubplease, participation \\
+
+\textbf{Communication} & page, case, policy, privacy, inquiry, type, information, home, email, term \\
+
+\textbf{Verification} & number, phone, point, information, center, certificate, tax, authentication, inquiry, address \\
+
+\textbf{Web Management} & web, promotion, council, website, improvement, xxx, expert, demonstration, realization, issue \\
+
+\textbf{Feedback} & opinion, comment, structure, content, inquiry, website, format, target, order, process \\
+
+\textbf{Issuance} & card, number, notification, issuance, online, certificate, period, municipality, point, center \\
+
+\hiderowcolors\bottomrule\end{tabular*}\begin{tablenotes}\small\item Highlighted cells indicate the assessed security level for vaccine passports.\end{tablenotes}\end{table*}

@@ -1,0 +1,20 @@
+\begin{table*}[width=\textwidth, cols=2]\caption{-- LDA Cluster ---}\label{tab: main}\begin{tabular*}{\tblwidth}{@{} p{4cm}p{12cm}@{} }\toprule \textbf{ Cluster} & \textbf{ Words}\\\midrule \toprule
+\textbf{Governance} & digitisation, government, partnership, authority, recommendation, society, data, future, security, control \\
+
+\textbf{Sector} & business, citizen, sector, technology, authority, value, service, growth, time, intelligence \\
+
+\textbf{Procedure} & impact, implementation, assessment, work, ministry, procedure, analysis, education, development, legislation \\
+
+\textbf{Strategy} & intelligence, service, strategy, energy, development, sector, digitalisation, data, plan, area \\
+
+\textbf{Healthcare} & data, health, sector, access, quality, patient, app, development, space, process \\
+
+\textbf{Architecture} & solution, project, framework, architecture, sector, business, principle, development, requirement, model \\
+
+\textbf{Protection} & data, legislation, case, rule, processing, protection, principle, authority, concept, discretion \\
+
+\textbf{Transition} & transition, solution, city, country, market, challenge, case, procurement, barrier, policy \\
+
+\textbf{Security} & security, information, policy, government, initiative, strategy, skill, level, agency, competence \\
+
+\hiderowcolors\bottomrule\end{tabular*}\begin{tablenotes}\small\item Highlighted cells indicate the assessed security level for vaccine passports.\end{tablenotes}\end{table*}

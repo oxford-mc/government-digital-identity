@@ -1,0 +1,18 @@
+\begin{table*}[width=\textwidth, cols=2]\caption{-- K-Means Cluster ---}\label{tab: main}\begin{tabular*}{\tblwidth}{@{} p{4cm}p{12cm}@{} }\toprule \textbf{ Cluster} & \textbf{ Words}\\\midrule \toprule
+\textbf{Digital Identity Management} & information, privacy, security, people, standard, control, identity, data, management, government \\
+\midrule
+\textbf{Identity Access Management} & service, identity, access, provider, information, people, realme, framework, government, online \\
+\midrule
+\textbf{Identity Ecosystem} & identity, ecosystem, framework, government, benefit, perspective, environment, sector, manner, standard \\
+\midrule
+\textbf{Regulatory Framework} & penalty, individual, authority, development, organisation, framework, rule, regime, business, body \\
+\midrule
+\textbf{Standardised Accreditation} & framework, participant, accreditation, government, cost, impact, rule, dispute, standard, authority \\
+\midrule
+\textbf{Identity Resolution} & option, framework, ecosystem, identity, resolution, impact, government, cost, accreditation, participant \\
+\midrule
+\textbf{E-Government Governance} & governance, framework, board, compliance, testing, phase, accreditation, government, rule, cost \\
+\midrule
+\textbf{Policy Framework} & cabinet, minister, paper, framework, policy, affair, economy, service, government, department \\
+\midrule
+\hiderowcolors\bottomrule\end{tabular*}\begin{tablenotes}\small\item Highlighted cells indicate the assessed security level for vaccine passports.\end{tablenotes}\end{table*}

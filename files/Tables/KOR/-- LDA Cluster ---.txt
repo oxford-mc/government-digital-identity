@@ -1,0 +1,20 @@
+\begin{table*}[width=\textwidth, cols=2]\caption{-- LDA Cluster ---}\label{tab: main}\begin{tabular*}{\tblwidth}{@{} p{4cm}p{12cm}@{} }\toprule \textbf{ Cluster} & \textbf{ Words}\\\midrule \toprule
+\textbf{Government operations} & government, service, policy, official, experience, relationship, project, development, subsidy, year \\
+
+\textbf{System administration} & layer, management, function, processing, data, file, reservation, type, configuration, business \\
+
+\textbf{Public service management} & information, data, service, government, citizen, management, operation, time, transport, agency \\
+
+\textbf{Digital governance} & government, future, service, online, history, expansion, content, innovation, status, map \\
+
+\textbf{Government information management} & ministry, safety, document, information, analysis, service, institution, model, government, data \\
+
+\textbf{Digital service development} & environment, mobile, service, framework, standard, component, runtime, job, development, egovernment \\
+
+\textbf{National digital strategy} & mobile, service, welfare, cooperation, device, card, index, nation, republic, plan \\
+
+\textbf{Digital development strategies} & government, test, platform, tool, practice, case, development, initiative, plan, field \\
+
+\textbf{User access management} & service, user, certificate, authentication, sector, signature, access, institution, data, information \\
+
+\hiderowcolors\bottomrule\end{tabular*}\begin{tablenotes}\small\item Highlighted cells indicate the assessed security level for vaccine passports.\end{tablenotes}\end{table*}

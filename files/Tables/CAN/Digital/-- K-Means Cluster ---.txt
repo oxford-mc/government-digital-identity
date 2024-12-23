@@ -1,0 +1,18 @@
+\begin{table*}[width=\textwidth, cols=2]\caption{-- K-Means Cluster ---}\label{tab: main}\begin{tabular*}{\tblwidth}{@{} p{4cm}p{12cm}@{} }\toprule \textbf{ Cluster} & \textbf{ Words}\\\midrule \toprule
+\textbf{Information Security} & security, control, service, risk, information, management, requirement, privacy, policy, assessment \\
+
+\textbf{Software Development} & software, source, code, licence, solution, development, project, service, license, practice \\
+
+\textbf{IT Operations} & data, device, password, work, user, tool, people, department, process, time \\
+
+\textbf{Web Services} & service, web, delivery, standard, client, department, provider, policy, access, data \\
+
+\textbf{IT Methods} & method, data, device, service, user, tool, standard, program, level, practice \\
+
+\textbf{Data Privacy} & information, data, privacy, management, access, service, technology, policy, government, purpose \\
+
+\textbf{Government Strategy} & plan, government, action, strategy, service, department, management, departmental, priority, initiative \\
+
+\textbf{Government Technology} & government, service, canadian, information, data, department, technology, work, program, policy \\
+
+\hiderowcolors\bottomrule\end{tabular*}\begin{tablenotes}\small\item Highlighted cells indicate the assessed security level for vaccine passports.\end{tablenotes}\end{table*}

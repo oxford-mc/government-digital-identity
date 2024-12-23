@@ -1,0 +1,18 @@
+\begin{table*}[width=\textwidth, cols=2]\caption{-- K-Means Cluster ---}\label{tab: main}\begin{tabular*}{\tblwidth}{@{} p{4cm}p{12cm}@{} }\toprule \textbf{ Cluster} & \textbf{ Words}\\\midrule \toprule
+\textbf{Digital Governance} & technology, intelligence, sector, legislation, development, policy, area, service, project, authority \\
+
+\textbf{Digital Law} & business, citizen, case, authority, processing, sector, service, principle, legislation, rule \\
+
+\textbf{Policy Analysis} & impact, implementation, assessment, analysis, ministry, legislation, relation, paragraph, citizen, method \\
+
+\textbf{Digital Transformation} & transition, policy, innovation, solution, city, country, society, data, potential, climate \\
+
+\textbf{Data Privacy} & data, authority, protection, processing, sector, legislation, access, health, business, concept \\
+
+\textbf{Digital Development} & solution, development, sector, city, business, data, technology, citizen, export, legislation \\
+
+\textbf{Digital Strategy} & government, security, digitisation, information, strategy, partnership, agency, initiative, sector, recommendation \\
+
+\textbf{Legal Decision} & decision, law, case, rule, text, authority, process, provision, data, legislation \\
+
+\hiderowcolors\bottomrule\end{tabular*}\begin{tablenotes}\small\item Highlighted cells indicate the assessed security level for vaccine passports.\end{tablenotes}\end{table*}

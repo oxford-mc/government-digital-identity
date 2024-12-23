@@ -1,0 +1,20 @@
+\begin{table*}[width=\textwidth, cols=2]\caption{-- LDA Cluster ---}\label{tab: main}\begin{tabular*}{\tblwidth}{@{} p{4cm}p{12cm}@{} }\toprule \textbf{ Cluster} & \textbf{ Words}\\\midrule \toprule
+\textbf{Authentication Methods} & mitid, code, app, display, phone, passport, reader, chip, audio, card \\
+
+\textbf{Government Digitalisation} & government, digitisation, policy, agency, partnership, recommendation, area, initiative, procurement, value \\
+
+\textbf{Energy Transition} & transition, energy, solution, potential, country, sector, scheme, technology, task, policy \\
+
+\textbf{Data Protection} & data, protection, authority, processing, information, process, infrastructure, solution, access, control \\
+
+\textbf{Danish Privacy Terminology} & eller, broker, bilag, vil, text, krav, personoplysninger, service, oplysninger, op \\
+
+\textbf{Business Technology} & business, sector, solution, technology, development, intelligence, skill, strategy, society, government \\
+
+\textbf{Civic Legislation} & citizen, impact, case, legislation, service, implementation, rule, assessment, principle, time \\
+
+\textbf{App Usability} & mitid, app, man, code, user, et, eller, pin, screen, phone \\
+
+\textbf{Security Regulations} & security, business, information, authority, requirement, work, architecture, regulation, level, principle \\
+
+\hiderowcolors\bottomrule\end{tabular*}\begin{tablenotes}\small\item Highlighted cells indicate the assessed security level for vaccine passports.\end{tablenotes}\end{table*}

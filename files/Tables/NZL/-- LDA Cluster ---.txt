@@ -1,0 +1,20 @@
+\begin{table*}[width=\textwidth, cols=2]\caption{-- LDA Cluster ---}\label{tab: main}\begin{tabular*}{\tblwidth}{@{} p{4cm}p{12cm}@{} }\toprule \textbf{ Cluster} & \textbf{ Words}\\\midrule \toprule
+\textbf{Identity Ecosystem} & identity, service, ecosystem, information, people, government, provider, benefit, sector, framework \\
+\midrule
+\textbf{Framework Principles} & framework, information, principle, purpose, authority, development, cabinet, official, individual, page \\
+\midrule
+\textbf{Governmental Framework} & government, option, framework, cabinet, group, iwi, information, agency, status, chief \\
+\midrule
+\textbf{Accreditation Framework} & framework, accreditation, rule, participant, establishment, regime, potential, offence, mechanism, enforcement \\
+\midrule
+\textbf{Governance Impact} & impact, statement, cost, framework, board, governance, accreditation, template, government, standard \\
+\midrule
+\textbf{Data Security} & privacy, security, standard, data, identity, framework, information, service, rule, management \\
+\midrule
+\textbf{Dispute Resolution} & option, resolution, dispute, participant, process, value, framework, scheme, paper, user \\
+\midrule
+\textbf{Risk Assurance} & ministry, risk, department, level, information, assurance, assessment, requirement, business, confidence \\
+\midrule
+\textbf{Government Services} & service, framework, government, minister, compliance, testing, board, phase, department, legislation \\
+\midrule
+\hiderowcolors\bottomrule\end{tabular*}\begin{tablenotes}\small\item Highlighted cells indicate the assessed security level for vaccine passports.\end{tablenotes}\end{table*}

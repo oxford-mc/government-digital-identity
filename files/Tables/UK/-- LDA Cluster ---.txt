@@ -1,0 +1,20 @@
+\begin{table*}[width=\textwidth, cols=2]\caption{-- LDA Cluster ---}\label{tab: main}\begin{tabular*}{\tblwidth}{@{} p{4cm}p{12cm}@{} }\toprule \textbf{ Cluster} & \textbf{ Words}\\\midrule \toprule
+\textbf{"Cryptography"} & etsi, time, signature, algorithm, network, security, document, certificate, standard, information \\
+
+\textbf{"Web Development"} & web, software, content, page, document, user, text, caption, technology, interface \\
+
+\textbf{"Requirements Engineering"} & requirement, clause, document, encryption, mobile, standard, statement, performance, change, key \\
+
+\textbf{"Access Control"} & case, access, requirement, device, floor, level, space, control, value, security \\
+
+\textbf{"Media Processing"} & audio, output, speech, information, video, alternative, control, medium, user, content \\
+
+\textbf{"Quality Assurance"} & type, assessment, criterion, success, inspection, table, document, testing, measurement, software \\
+
+\textbf{"Software Platform"} & data, access, service, user, software, control, platform, interface, policy, accessibility \\
+
+\textbf{"User Interaction"} & user, interface, element, communication, voice, technology, attribute, action, mode, text \\
+
+\textbf{"Identity Management"} & identity, service, organisation, framework, data, provider, rule, process, scheme, product \\
+
+\hiderowcolors\bottomrule\end{tabular*}\begin{tablenotes}\small\item Highlighted cells indicate the assessed security level for vaccine passports.\end{tablenotes}\end{table*}

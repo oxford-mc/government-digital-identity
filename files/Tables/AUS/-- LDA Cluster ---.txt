@@ -1,0 +1,20 @@
+\begin{table*}[width=\textwidth, cols=2]\caption{-- LDA Cluster ---}\label{tab: main}\begin{tabular*}{\tblwidth}{@{} p{4cm}p{12cm}@{} }\toprule \textbf{ Cluster} & \textbf{ Words}\\\midrule \toprule
+\textbf{"Security Attributes"} & credential, authentication, standard, device, identity, technology, data, cryptographic, level, age \\
+
+\textbf{"Risk Assessment"} & security, assessment, applicant, requirement, fraud, risk, testing, incident, applicability, control \\
+
+\textbf{"User Interaction"} & request, applicability, client, user, authorisation, attack, experience, value, presentation, authentication \\
+
+\textbf{"Regulatory Compliance"} & entity, section, rule, accreditation, chapter, requirement, subsection, person, regulator, condition \\
+
+\textbf{"Privacy Regulations"} & privacy, information, data, legislation, law, protection, app, identity, requirement, breach \\
+
+\textbf{"Entity Classification"} & government, number, entity, risk, state, address, business, territory, sector, type \\
+
+\textbf{"Governance"} & authority, oversight, legislation, identity, consultation, paper, position, submission, governance, regulation \\
+
+\textbf{"Identity Management"} & identity, service, provider, party, user, attribute, access, government, level, individual \\
+
+\textbf{"Accreditation Process"} & document, finance, department, requirement, identity, accreditation, role, official, process, source \\
+
+\hiderowcolors\bottomrule\end{tabular*}\begin{tablenotes}\small\item Highlighted cells indicate the assessed security level for vaccine passports.\end{tablenotes}\end{table*}

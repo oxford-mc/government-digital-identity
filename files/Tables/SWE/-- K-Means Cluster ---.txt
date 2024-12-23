@@ -1,0 +1,18 @@
+\begin{table*}[width=\textwidth, cols=2]\caption{-- K-Means Cluster ---}\label{tab: main}\begin{tabular*}{\tblwidth}{@{} p{4cm}p{12cm}@{} }\toprule \textbf{ Cluster} & \textbf{ Words}\\\midrule \toprule
+\textbf{XML Components} & element, type, elem, xml, content, data, signature, schema, attribute, message \\
+
+\textbf{Communication Parameters} & protocol, message, signature, specification, section, xml, page, information, authentication, party \\
+
+\textbf{XML Elements} & value, element, attribute, type, section, xml, time, format, party, elem \\
+
+\textbf{Protocol Elements} & request, message, protocol, version, http, element, authentication, responder, number, soap \\
+
+\textbf{Processing Elements} & rule, processing, proces, message, speci, proce, section, request, assertion, value \\
+
+\textbf{Identity Services} & provider, identity, service, message, principal, user, element, authentication, request, error \\
+
+\textbf{Security Assertions} & assertion, party, element, security, oasis, protocol, elem, information, statement, page \\
+
+\textbf{Service Provider Attributes} & service, provider, category, entity, signature, user, request, element, identity, requirement \\
+
+\hiderowcolors\bottomrule\end{tabular*}\begin{tablenotes}\small\item Highlighted cells indicate the assessed security level for vaccine passports.\end{tablenotes}\end{table*}

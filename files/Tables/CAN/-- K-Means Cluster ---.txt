@@ -1,0 +1,18 @@
+\begin{table*}[width=\textwidth, cols=2]\caption{-- K-Means Cluster ---}\label{tab: main}\begin{tabular*}{\tblwidth}{@{} p{4cm}p{12cm}@{} }\toprule \textbf{ Cluster} & \textbf{ Words}\\\midrule \toprule
+\textbf{Standardization} & conformance, criterion, component, level, process, assurance, requirement, person, specifies, loa \\
+
+\textbf{Authentication} & credential, authentication, process, service, level, framework, team, assurance, provider, document \\
+
+\textbf{System} & organization, information, person, processor, identity, process, authority, policy, plan, role \\
+
+\textbf{Verification} & identity, information, ecosystem, process, verification, validation, service, record, organization, resolution \\
+
+\textbf{Guidelines} & component, recommendation, framework, document, term, convention, authentication, person, privacy, vector \\
+
+\textbf{Participants} & information, relationship, issuer, credential, process, party, participant, entity, policy, attribute \\
+
+\textbf{Regulation} & legislation, regulation, policy, jurisdiction, ecosystem, organization, privacy, conformance, criterion, individual \\
+
+\textbf{Proof} & evidence, identity, source, organization, information, authority, person, record, assurance, validation \\
+
+\hiderowcolors\bottomrule\end{tabular*}\begin{tablenotes}\small\item Highlighted cells indicate the assessed security level for vaccine passports.\end{tablenotes}\end{table*}

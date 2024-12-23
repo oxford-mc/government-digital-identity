@@ -1,0 +1,20 @@
+\begin{table*}[width=\textwidth, cols=2]\caption{-- LDA Cluster ---}\label{tab: main}\begin{tabular*}{\tblwidth}{@{} p{4cm}p{12cm}@{} }\toprule \textbf{ Cluster} & \textbf{ Words}\\\midrule \toprule
+\textbf{Digital Identity} & security, estonian, identity, tax, infrastructure, investment, ecosystem, model, data, component \\
+
+\textbf{Education} & school, technology, card, teaching, material, education, management, world, tool, skill \\
+
+\textbf{Administration} & centre, minute, city, contact, hour, airport, ecosystem, sector, identity, government \\
+
+\textbf{Online Service} & ground, floor, statue, service, online, year, day, road, hour, country \\
+
+\textbf{Civic Information} & information, data, citizen, doctor, interoperability, service, society, organisation, connection, state \\
+
+\textbf{System Management} & data, government, mobility, service, event, embassy, safety, registry, freight, transportation \\
+
+\textbf{Digital Governance} & state, plan, provider, expert, digitalisation, practice, link, service, tax, file \\
+
+\textbf{Online Accessibility} & access, vehicle, data, information, infrastructure, people, online, patient, bus, world \\
+
+\textbf{Digital Data Management} & record, online, data, patient, access, time, business, country, signature, platform \\
+
+\hiderowcolors\bottomrule\end{tabular*}\begin{tablenotes}\small\item Highlighted cells indicate the assessed security level for vaccine passports.\end{tablenotes}\end{table*}

@@ -1,0 +1,18 @@
+\begin{table*}[width=\textwidth, cols=2]\caption{-- K-Means Cluster ---}\label{tab: main}\begin{tabular*}{\tblwidth}{@{} p{4cm}p{12cm}@{} }\toprule \textbf{ Cluster} & \textbf{ Words}\\\midrule \toprule
+\textbf{Security} & access, control, policy, data, service, space, solution, device, user, case \\
+
+\textbf{Identity Management} & service, identity, user, type, assessment, requirement, framework, inspection, organisation, text \\
+
+\textbf{Content Management} & document, success, criterion, mobile, form, table, content, audio, requirement, medium \\
+
+\textbf{User Interface} & software, interface, user, technology, screen, platform, element, success, criterion, table \\
+
+\textbf{Compliance} & clause, requirement, performance, statement, user, conformance, functionality, content, interface, document \\
+
+\textbf{Web Development} & page, web, document, form, requirement, audio, content, software, conformance, error \\
+
+\textbf{Accessibility} & information, output, speech, user, content, accessibility, audio, text, change, service \\
+
+\textbf{Data Privacy} & data, protection, device, organisation, identity, ciphertext, processing, purpose, process, privacy \\
+
+\hiderowcolors\bottomrule\end{tabular*}\begin{tablenotes}\small\item Highlighted cells indicate the assessed security level for vaccine passports.\end{tablenotes}\end{table*}

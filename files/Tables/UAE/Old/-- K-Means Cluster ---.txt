@@ -1,0 +1,18 @@
+\begin{table*}[width=\textwidth, cols=2]\caption{-- K-Means Cluster ---}\label{tab: main}\begin{tabular*}{\tblwidth}{@{} p{4cm}p{12cm}@{} }\toprule \textbf{ Cluster} & \textbf{ Words}\\\midrule \toprule
+\textbf{Policy} & regulator, sandbox, inclusion, capacity, innovator, dialogue, barrier, innovation, action, legislator \\
+
+\textbf{Industry} & app, sector, identity, insurance, government, development, service, telecommunication, authority, technology \\
+
+\textbf{Regulations} & framework, law, service, information, provider, publication, transaction, government, tdra, data \\
+
+\textbf{Technology} & innovation, fintech, environment, testing, product, participant, solution, test, licence, requirement \\
+
+\textbf{Evaluation} & maturity, model, government, level, dimension, leadership, strategy, assessment, survey, definition \\
+
+\textbf{Service} & service, government, future, transaction, technology, charter, customer, api, promise, principle \\
+
+\textbf{Accessibility} & document, ability, security, website, official, level, app, share, store, version \\
+
+\textbf{Data Management} & data, government, entity, apis, guideline, process, information, api, transformation, dissemination \\
+
+\hiderowcolors\bottomrule\end{tabular*}\begin{tablenotes}\small\item Highlighted cells indicate the assessed security level for vaccine passports.\end{tablenotes}\end{table*}

@@ -1,0 +1,20 @@
+\begin{table*}[width=\textwidth, cols=2]\caption{-- LDA Cluster ---}\label{tab: main}\begin{tabular*}{\tblwidth}{@{} p{4cm}p{12cm}@{} }\toprule \textbf{ Cluster} & \textbf{ Words}\\\midrule \toprule
+\textbf{Identity Management} & identity, wallet, preparation, parliament, development, time, organisation, card, session, initiative \\
+
+\textbf{Administration} & solution, remote, case, ministry, finance, website, group, identification, representative, background \\
+
+\textbf{Identity Verification} & identity, card, service, solution, police, passport, test, finance, ministry, day \\
+
+\textbf{Mobile ID Solutions} & service, identification, mobile, fi, foreigner, transaction, identity, solution, device, alternative \\
+
+\textbf{Regulatory Procedures} & implementation, wallet, regulation, market, proposal, legislation, project, government, decision, consultation \\
+
+\textbf{Digital Identity} & service, future, identity, code, student, idea, participant, architecture, comment, society \\
+
+\textbf{E-Governance} & service, data, agency, population, specification, wallet, solution, ministry, work, finance \\
+
+\textbf{Cybersecurity} & information, service, wallet, project, user, data, identity, security, identification, country \\
+
+\textbf{Software Testing} & testing, suomi, program, hacker, bug, bounty, vulnerability, potential, number, survey \\
+
+\hiderowcolors\bottomrule\end{tabular*}\begin{tablenotes}\small\item Highlighted cells indicate the assessed security level for vaccine passports.\end{tablenotes}\end{table*}

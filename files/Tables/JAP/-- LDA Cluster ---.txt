@@ -1,0 +1,20 @@
+\begin{table*}[width=\textwidth, cols=2]\caption{-- LDA Cluster ---}\label{tab: main}\begin{tabular*}{\tblwidth}{@{} p{4cm}p{12cm}@{} }\toprule \textbf{ Cluster} & \textbf{ Words}\\\midrule \toprule
+\textbf{Website Elements} & website, opinion, content, comment, structure, process, order, format, page, target \\
+
+\textbf{Personal Information} & number, card, certificate, date, residence, information, birth, pin, braille, address \\
+
+\textbf{Identification Process} & card, number, issuance, notification, online, office, procedure, municipality, website, insurance \\
+
+\textbf{Online Privacy} & web, request, photograph, community, background, policy, privacy, data, organization, address \\
+
+\textbf{Digital User Profile} & photo, signature, certificate, data, box, user, community, character, content, experience \\
+
+\textbf{Identity Verification} & certificate, service, information, document, identity, convenience, store, online, identification, verification \\
+
+\textbf{Information Request} & inquiry, number, point, information, content, agency, address, year, representative, authority \\
+
+\textbf{Web Communication} & email, case, information, web, page, address, issue, error, registration, demonstration \\
+
+\textbf{Contact Information} & number, contact, download, municipality, phone, center, office, card, material, code \\
+
+\hiderowcolors\bottomrule\end{tabular*}\begin{tablenotes}\small\item Highlighted cells indicate the assessed security level for vaccine passports.\end{tablenotes}\end{table*}

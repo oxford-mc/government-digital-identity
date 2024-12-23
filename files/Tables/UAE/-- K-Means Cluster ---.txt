@@ -1,0 +1,18 @@
+\begin{table*}[width=\textwidth, cols=2]\caption{-- K-Means Cluster ---}\label{tab: main}\begin{tabular*}{\tblwidth}{@{} p{4cm}p{12cm}@{} }\toprule \textbf{ Cluster} & \textbf{ Words}\\\midrule \toprule
+\textbf{Digital Services} & way, individual, edocuments, etransactions, service, reality, government, provision, development, imagination \\
+
+\textbf{Public Sector} & service, government, entity, customer, platform, experience, information, transaction, development, medium \\
+
+\textbf{Community Project} & initiative, project, mobile, government, community, line, hub, year, city, implementation \\
+
+\textbf{Government Services} & clock, visa, job, education, business, service, government, right, beta, voice \\
+
+\textbf{Social Innovation} & community, participation, map, government, policy, sector, service, technology, innovation, law \\
+
+\textbf{Government Transformation} & transformation, government, service, platform, policy, strategy, apps, experience, level, authority \\
+
+\textbf{eTransactions} & accuracy, information, zone, exam, etransactions, evaluation, event, everyday, everyones, evidence \\
+
+\textbf{Data Protection} & data, dissemination, law, protection, provider, entity, emirate, standard, policy, government \\
+
+\hiderowcolors\bottomrule\end{tabular*}\begin{tablenotes}\small\item Highlighted cells indicate the assessed security level for vaccine passports.\end{tablenotes}\end{table*}

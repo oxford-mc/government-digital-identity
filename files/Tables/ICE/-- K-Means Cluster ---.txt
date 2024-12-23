@@ -1,0 +1,18 @@
+\begin{table*}[width=\textwidth, cols=2]\caption{-- K-Means Cluster ---}\label{tab: main}\begin{tabular*}{\tblwidth}{@{} p{4cm}p{12cm}@{} }\toprule \textbf{ Cluster} & \textbf{ Words}\\\midrule \toprule
+\textbf{Measurements} & ratio, austurland, height, water, year, mic, length, lava, age, ship \\
+
+\textbf{Legal Terms} & case, information, protection, provision, immigration, applicant, decision, data, document, authority \\
+
+\textbf{Icelandic Words} & fram, vera, fyrir, hefur, var, eins, einnig, milli, svo, geta \\
+
+\textbf{Residency Terms} & residence, iceland, provision, year, period, basis, condition, card, article, applicant \\
+
+\textbf{Healthcare Terms} & fyrir, var, hefur, health, service, einnig, child, year, milli, time \\
+
+\textbf{Citizenship Terms} & iceland, health, arrival, year, country, national, person, applicant, register, month \\
+
+\textbf{Maritime Terms} & ship, convention, amendment, safety, regulation, code, passenger, sea, cargo, requirement \\
+
+\textbf{Family Terms} & family, member, residence, national, host, iceland, provision, pair, child, section \\
+
+\hiderowcolors\bottomrule\end{tabular*}\begin{tablenotes}\small\item Highlighted cells indicate the assessed security level for vaccine passports.\end{tablenotes}\end{table*}

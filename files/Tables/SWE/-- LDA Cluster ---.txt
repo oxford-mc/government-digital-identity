@@ -1,0 +1,20 @@
+\begin{table*}[width=\textwidth, cols=2]\caption{-- LDA Cluster ---}\label{tab: main}\begin{tabular*}{\tblwidth}{@{} p{4cm}p{12cm}@{} }\toprule \textbf{ Cluster} & \textbf{ Words}\\\midrule \toprule
+\textbf{Identity Data} & person, number, information, address, member, condition, service, time, security, registration \\
+
+\textbf{Data Components} & type, section, element, data, value, extension, message, format, rule, endpoint \\
+
+\textbf{Security Elements} & party, assertion, certificate, value, information, page, code, status, framework, eid \\
+
+\textbf{XML Elements} & signature, xml, element, schema, namespace, value, property, data, document, object \\
+
+\textbf{Communication} & request, message, protocol, session, authority, statement, responder, http, authentication, requester \\
+
+\textbf{Protocol} & protocol, context, version, assertion, artifact, processing, message, speci, authentication, specification \\
+
+\textbf{Security Requirements} & security, oasis, specification, requirement, level, assertion, soap, time, profile, right \\
+
+\textbf{Entity Identifier} & element, elem, content, identifier, type, identification, specifies, entity, article, assertion \\
+
+\textbf{Service Provider} & provider, service, identity, user, entity, metadata, authentication, request, element, agent \\
+
+\hiderowcolors\bottomrule\end{tabular*}\begin{tablenotes}\small\item Highlighted cells indicate the assessed security level for vaccine passports.\end{tablenotes}\end{table*}
