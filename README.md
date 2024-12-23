@@ -48,24 +48,24 @@ The following prerequistes are required:
 In this section we will outline key commands used for the analysis. Note that more comments are available in the notebook itself
 
 ### Patent Analysis Notebook
-1. Output Patent Leaders </br>
+1. Crawl Primary Page </br>
    The following command will output the top 12 entities by patent count over the given dataframe
    ```sh
    output_leaders(wd)
    ```
-   <img src="images/leaders.png" alt="Leaders">
-2. Display Entity </br>
+   <img src="images/display1.png" alt="Leaders">
+2. Mine Page </br>
    This code will display patent counts for the entire dataset, period 1996-2020 and post 2020. In addition it will output the first and last patents within the dataframe
    ```sh
    display_entity(wdfull, "Diebold", [], [])
    ```
-   <img src="images/display1.png" alt="Display1">
+   <img src="images/display2.png" alt="Display1">
 3. Display Entity with Keywords </br>
    This code will display patent count metrics for each of the provided key term search words
    ```sh
    display_entity(wdfull, "Diebold", ["privacy","trust"], [])
    ```
-   <img src="images/display2.png" alt="Display2">
+   <img src="images/display3.png" alt="Display2">
 4. Display Entity with Additional Ranges </br>
 This code will allow you to specify a subrange e.g. in this case years that Kim Cameron was on staff
    ```sh
