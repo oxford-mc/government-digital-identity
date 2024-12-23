@@ -91,6 +91,8 @@ This code will output base statistics for a search term including percentage mov
    plot_graph(selected_words, 'TF-IDF','Security',3, -0.00002)
    ```
    <img src="images/stat1.png" alt="Stat1">
+   <img src="images/sc1.png" alt="SC1">
+   <img src="images/sc2.png" alt="SC2">
    <img src="images/sc3.png" alt="SC3">
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
