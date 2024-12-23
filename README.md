@@ -57,22 +57,22 @@ In this section we will outline key commands used for the analysis. Note that mo
 
 
 ### Patent Analysis Notebook
-1. Crawling the Base Website </br>
+#1. Crawling the Base Website </br>
    Use the provided script to crawl a base website, locate associated URLs, and compile them into a structured URL list for further processing.
    <img src="images/display1.png" alt="Crawling">
-2. Mining URLs for Text Data </br>
+#2. Mining URLs for Text Data </br>
    Process each URL in the list to retrieve raw text content from the corresponding web pages, handling dynamic elements where applicable.
    <img src="images/display2.png" alt="Mining">
-3. Extracting Text from Pages </br>
+#3. Extracting Text from Pages </br>
    Extract and clean text from the retrieved data, removing unwanted elements like scripts, styles, and other non-content data to prepare for analysis.
    <img src="images/display3.png" alt="Extracting">
-4. Lemmatization </br>
+#4. Lemmatization </br>
    Normalize the extracted text by reducing words to their base or root form (e.g., converting "running" to "run") for improved consistency in analysis.
-   <img src="images/sc1.png" alt="Lemma">
-5. Calculating Term Frequencies </br>
+   <img src="images/SC1.png" alt="Lemma">
+#5. Calculating Term Frequencies </br>
    Analyze the normalized text to calculate term frequencies, identifying the most frequently occurring words or phrases on the pages.
    <img src="images/sc2.png" alt="Frequency">
-6. Clustering </br>
+#6. Clustering </br>
    Group similar pages or text data into clusters based on shared features or term frequencies to uncover patterns and relationships in the dataset.
    <img src="images/sc3.png" alt="Clustering">
 ### Patent Modeling Notebook
