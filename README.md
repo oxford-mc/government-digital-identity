@@ -1,2 +1,4 @@
-# government-digital-identity
-mining of digital identity patterns and insights from government trust framework initiatives
+# patent-mining
+Sample data and code to accompany published article
+
+![](oxford_logo.png)
