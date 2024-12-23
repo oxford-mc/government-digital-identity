@@ -75,22 +75,7 @@ In this section we will outline key commands used for the analysis. Note that mo
 6. Clustering </br>
    Group similar pages or text data into clusters based on shared features or term frequencies to uncover patterns and relationships in the dataset.
    <img src="images/sc3.png" alt="Clustering">
-### Patent Modeling Notebook
-1. Model Keywords </br>
-This code will output base statistics for a search term including percentage movement, mean, std, error and will also output a chart with trend over time
-   ```sh
-   selected_words = {'certificate','storage','privacy','communication','encryption'}  # Example set of words
-   ```
-   ```sh
-   colors = generate_dark_colors(len(selected_words))
-   ```
-   ```sh
-   plot_graph(selected_words, 'TF-IDF','Security',3, -0.00002)
-   ```
-   <img src="images/stat1.png" alt="Stat1">
-   <img src="images/sc1.png" alt="SC1">
-   <img src="images/sc2.png" alt="SC2">
-   <img src="images/sc3.png" alt="SC3">
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
