@@ -4,7 +4,7 @@
 <div align="center">
     <img src="images/oxford_logo.png" alt="OxfordLogo" width="150" height="150">
 
-  <h3 align="center">Mining Digital Identity Insights: Patent Analysis using NLP</h3>
+  <h3 align="center">Towards Universal Digital Identity:  Alignment, Maturity and Transparency of Government Programs</h3>
 
   <p align="center">
     A repository with reproducibility package to accompany the published article
